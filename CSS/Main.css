@@ -1,0 +1,27 @@
+.picture-extra-small {
+width: 200px;
+}
+
+.picture-small {
+    width: 200px;
+}
+
+.picture-medium {
+    width: 800px;
+}
+
+.picture-large {
+width: 1000px;
+}
+
+.logo {
+width: 75px;
+}
+
+.transition-box {
+    transition: all 500ms ease;
+}
+
+.transition-box:hover {
+    transform: scale(1.01);
+}
